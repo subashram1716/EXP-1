@@ -69,7 +69,13 @@ a.   KVL:
 
 b.  KCL:
 
-
+![WhatsApp Image 2025-10-17 at 08 41 54_64dfb838](https://github.com/user-attachments/assets/f5e048b9-54ec-43e0-8119-b685162b6e08)
+![WhatsApp Image 2025-10-17 at 08 42 30_5fd11f3e](https://github.com/user-attachments/assets/740d16dd-684b-4fbf-9825-ebde516d867e)
+![WhatsApp Image 2025-10-17 at 08 43 09_8111081b](https://github.com/user-attachments/assets/aaeda254-7238-47ac-83cd-33627cd2a7cf)
+![WhatsApp Image 2025-10-17 at 08 44 40_6f7ea288](https://github.com/user-attachments/assets/8bd9c3ad-f696-4845-9fbe-939cc5c104b2)
+![WhatsApp Image 2025-10-17 at 08 45 12_6578f1a9](https://github.com/user-attachments/assets/a0089f41-043f-46fe-aaed-28f671630517)
+![WhatsApp Image 2025-10-16 at 15 05 13_dd312709](https://github.com/user-attachments/assets/07fe3cf4-9930-4cc3-b6f2-8903b62864cc)
+![WhatsApp Image 2025-10-16 at 15 05 13_b594f47a](https://github.com/user-attachments/assets/4858f0a2-d50a-45b9-a3f9-749815f86c09)
 
 RESULT:
 
